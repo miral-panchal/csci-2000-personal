@@ -1,0 +1,22 @@
+CSCI 2000U - Assignment 1
+Part 1
+
+(a) echo hello world - Prints hello world onto the terminal.
+
+(b) echo {con,pre}{sent,fer}{s,ed} - Expands the brackets and uses the foil method to give an output of 
+                                     {con, pre}sents pre}sented pre}fers pre}fered
+
+
+(c) date - Outputs the day of the week, month, date, exact time in your time zone and year. 
+
+(d) whoami - Outputs the users name.
+
+(e) cal 2000 - Prints the entire calender for the year 2000.
+
+(f) cal 9 1752 (do you notice anything unusual?) - Prints the calender for the ninth month (September) of 
+						   1752 but the dates ranging September 3 to September 13
+						   are missing.
+
+(g) bc -l(type quit or press Ctrl-d to quit) - Displays the copyright details for the linux operating system.
+
+(h) echo 5+4 | bc -l - Adds 5 and 4 and prints the result
